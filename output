@@ -1,0 +1,48 @@
+🎯 Welcome to the Number Guessing Game!
+I'm thinking of a number between 1 and 100...
+Enter your guess: 3
+Too low! Try again.
+Enter your guess: 6
+Too low! Try again.
+Enter your guess: 87
+Too high! Try again.
+Enter your guess: 88
+Too high! Try again.
+Enter your guess: 89
+Too high! Try again.
+Enter your guess: 90
+Too high! Try again.
+Enter your guess: 91
+Too high! Try again.
+Enter your guess: 95
+Too high! Try again.
+Enter your guess: 98
+Too high! Try again.
+Enter your guess: 99
+Too high! Try again.
+Enter your guess: 100
+Too high! Try again.
+Enter your guess: 50
+Too high! Try again.
+Enter your guess: 40
+Too high! Try again.
+Enter your guess: 30
+Too high! Try again.
+Enter your guess: 1
+Too low! Try again.
+Enter your guess: 2
+Too low! Try again.
+Enter your guess: 3
+Too low! Try again.
+Enter your guess:
+⚠️ Please enter a valid number.
+Enter your guess: 4
+Too low! Try again.
+Enter your guess: 5
+Too low! Try again.
+Enter your guess: 6
+Too low! Try again.
+Enter your guess: 7
+Too low! Try again.
+Enter your guess: 8
+🎉 Correct! You guessed the number in 22 attempts.
